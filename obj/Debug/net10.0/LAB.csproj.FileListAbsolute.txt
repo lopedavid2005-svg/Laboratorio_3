@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\bin\Debug\net10.0\LAB.exe
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\bin\Debug\net10.0\LAB.deps.json
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\bin\Debug\net10.0\LAB.runtimeconfig.json
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\bin\Debug\net10.0\LAB.dll
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\bin\Debug\net10.0\LAB.pdb
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.AssemblyInfo.cs
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.dll
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\refint\LAB.dll
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.pdb
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.genruntimeconfig.cache
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\ref\LAB.dll
