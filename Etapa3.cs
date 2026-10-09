@@ -54,6 +54,7 @@ class Etapa3
         int[] lista = new int[0];
         int opcion;
 
+        System.Console.WriteLine("\n--------------- ETAPA 3 ---------------");
         do
         {
             System.Console.WriteLine("\n------------ MENÚ DE OPERACIONES ------------");
