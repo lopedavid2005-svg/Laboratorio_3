@@ -12,3 +12,4 @@ C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\refint\LAB.
 C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.pdb
 C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.genruntimeconfig.cache
 C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\ref\LAB.dll
+C:\Users\david\Desktop\PRACTICAS\LABORATORIO_3\LAB\obj\Debug\net10.0\LAB.sourcelink.json

@@ -1,4 +1,4 @@
 ﻿
-            Etapa1.Ejecutar();
-            Etapa2.Ejecutar();
+            Etapa3.Ejecutar();
+         
             
